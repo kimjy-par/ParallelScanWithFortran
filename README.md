@@ -5,4 +5,5 @@ Thus, I have written naive parallel scan algorithm with fortran language and par
 If you have bug or problem of question about my code, please let me know through email.
 
 kimjy10@kisti.re.kr
+
 kjy120924@gmail.com
